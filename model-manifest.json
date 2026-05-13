@@ -1,0 +1,10 @@
+{
+  "product": "smaiby",
+  "target": "grove_vision_ai_v2",
+  "version": "1.0.1",
+  "url": "https://github.com/SMAIBY/smaiby-prototype-3/releases/download/v.1.0.1/2026-05-08_ei-mark1-object-detection-tensorflow-lite-int8-quantized-model_vela.tflite",
+  "size": 37360,
+  "sha256": "cecbe96db73d0d2645bc0a8ba3bb3fc58b06b8108ea74fa49f23a5a2a9aa8fe5",
+  "min_device_fw": "1.0.0",
+  "force": false
+}
